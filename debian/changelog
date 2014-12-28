@@ -1,0 +1,21 @@
+buuf-deuce-icons (1.0.3) unstable; urgency=low 
+ 
+  * Using dpkg-buildpackage.
+  * xz compression used for deb.
+
+ -- anticapitalista <antiX@operamail.com>  Fri, 18 Oct 2012 14:10:00 +0200
+
+
+buuf-deuce-icons (1.0.2) unstable; urgency=low 
+ 
+  * Fixed ownership bug.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 26 August 2012 15:40:00 +0200
+
+
+buuf-deuce-icons (1.0.1) unstable; urgency=low 
+ 
+  * Initial Release.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 29 January 2012 15:30:00 +0200
+
